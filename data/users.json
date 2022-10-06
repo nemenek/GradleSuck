@@ -1,0 +1,29 @@
+[
+  {
+    "id": 100,
+    "fullName": "Péter Kovács",
+    "role": "USER",
+    "credentials": {
+      "username": "pkovacs",
+      "password": "pk-secret"
+    }
+  },
+  {
+    "id": 102,
+    "fullName": "Bodri Márk",
+    "role": "USER",
+    "credentials": {
+      "username": "asd",
+      "password": "asd"
+    }
+  },
+  {
+    "id": 101,
+    "fullName": "Sándor Nagy",
+    "role": "ADMIN",
+    "credentials": {
+      "username": "snagy",
+      "password": "pk-secret"
+    }
+  }
+]

@@ -1,0 +1,11 @@
+def  entryPoint='Main'
+apply plugin: 'application'
+
+application{
+   mainClass.set(entryPoint)
+}
+dependencies {
+    implementation project(':domain')
+    implementation project(':persistence')
+    implementation project(':service')
+}

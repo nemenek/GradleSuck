@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "user": 100,
+    "rating": 5,
+    "comment": "Amazing building, unique shapes.",
+    "attraction": 10
+  },
+  {
+    "id": 3,
+    "user": 101,
+    "rating": 4,
+    "comment": "It is nice.",
+    "attraction": 10
+  },
+  {
+    "id": 2,
+    "user": 102,
+    "rating": 5,
+    "comment": "Monke",
+    "attraction": 11
+  }
+]
